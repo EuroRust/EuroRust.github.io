@@ -1,1 +1,7 @@
-
+@font-face {
+    font-family: Font;
+    src: url(font.tff);
+}
+h1 {
+    font-family: "Font";
+}
