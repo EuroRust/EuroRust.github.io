@@ -13,8 +13,6 @@ h1 {
 
   display: block;
   background-image: url('https://files.facepunch.com/garry/2014/October/31/2014-10-31_00018.jpg');
-  width: 1200px;
-  height: 800px;
 
   -webkit-filter: blur(5px);
   -moz-filter: blur(5px);
