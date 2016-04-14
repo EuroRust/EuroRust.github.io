@@ -4,6 +4,7 @@
 }
 h1 {
     font-family: "Font";
+    color: blue;
 }
 body {
     background-image: url("http://eurorust.github.io/bg.jpg");
